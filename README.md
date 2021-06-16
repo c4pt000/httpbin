@@ -7,8 +7,8 @@ A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
 
 Run locally:
 ```sh
-docker pull kennethreitz/httpbin
-docker run -p 80:80 kennethreitz/httpbin
+docker pull c4pt/httpreq
+docker run -p 8080:8080 c4pt/httpreq
 ```
 
 See http://httpbin.org for more information.
